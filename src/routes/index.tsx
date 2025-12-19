@@ -42,7 +42,7 @@ function Home() {
             linkedin
           </a>
           <a
-            href="mailto:rjtanen@seas.upenn.edu"
+            href="mailto:rjtanenholz@gmail.com"
             className="px-3 sm:px-4 py-2 border border-zinc-700 text-sm hover:border-emerald-400 hover:text-emerald-400 transition-colors"
           >
             email
