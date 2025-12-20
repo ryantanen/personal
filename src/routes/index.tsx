@@ -56,15 +56,15 @@ function Home() {
         <div className="grid gap-4">
           <WorkCard
             company="Crosby.ai"
-            role="Software Engineer Intern"
-            period="2024"
+            role="Founding Software Engineer Intern"
+            period="2025"
             description="Legal AI startup backed by Sequoia & Bain Capital. Built features for contract automation platform."
             link="https://crosby.ai"
           />
           <WorkCard
             company="GPT-Trainer"
             role="Software Engineer Intern"
-            period="2023"
+            period="2024"
             description="AI chatbot platform. Developed custom training pipelines and chat interfaces."
             link="https://gpt-trainer.com"
           />
