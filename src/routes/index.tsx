@@ -111,8 +111,16 @@ function Home() {
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-zinc-800 pt-8 text-zinc-600 text-sm">
+      <footer className="border-t border-zinc-800 pt-8 text-zinc-600 text-sm flex items-center justify-between">
         <p>© {new Date().getFullYear()}</p>
+        <a
+          href="http://colordle.ryantanen.com/privacy"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-zinc-500 hover:text-zinc-300 transition-colors"
+        >
+          privacy policy
+        </a>
       </footer>
     </div>
   )
